@@ -1,19 +1,19 @@
 /*  your css code here. If applicable */
 h1{
-	background-color:#2a7ae2;
+	background-color:rgb(42, 122, 226);
 }
 h2{
-	background-color:#f44336;
+	background-color:rgb(244, 67, 54);
 }
 h3{
-	background-color: #4caf50;
+	background-color:rgb(76, 175, 80);
 }
 h4{
-	background-color:#ff9800;
+	background-color:rgb(255, 152, 0);
 }
 h5{
-	background-color:#607d8b;
+	background-color:rgb(96, 125, 139);
 }
 h6{
-background-color:#ffeb3b;
+background-color:rgb(255, 235, 59);
 }
